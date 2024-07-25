@@ -159,4 +159,7 @@
     <a href="https://www.linkedin.com/in/farruhbek-turdiqulov-14353b2b4/">
         <img src="https://img.shields.io/badge/Linkedin-FFA116?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin">
     </a>
+    <a href="https://t.me/@KUHIRO">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
 </p>
