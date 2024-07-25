@@ -138,11 +138,6 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR_platforma&theme=tokyonight" alt="HR Platform Service">
                 </a>
             </td>
-            <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/Telegram-Bot">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Telegram-Bot&theme=tokyonight" alt="Telegram Bot">
-                </a>
-            </td>
         </tr>
     </table>
 </div>
