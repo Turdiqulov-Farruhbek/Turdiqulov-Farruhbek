@@ -116,14 +116,14 @@
             </td>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Smart-City-Management">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart_City_Management&theme=tokyonight" alt="Smart City Management">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart_city&theme=tokyonight" alt="Smart City Management">
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Restaurant-Reservation-Service">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant_Reservation_ervice&theme=tokyonight" alt="Restaurant Reservation Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant-reservation-system&theme=tokyonight" alt="Restaurant Reservation Service">
                 </a>
             </td>
             <td>
@@ -135,7 +135,7 @@
         <tr>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR_Platforma_Service&theme=tokyonight" alt="HR Platform Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR_platforma&theme=tokyonight" alt="HR Platform Service">
                 </a>
             </td>
             <td>
