@@ -156,4 +156,7 @@
     <a href="https://leetcode.com/u/Farruhbek/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
     </a>
+    <a href="https://www.linkedin.com/in/farruhbek-turdiqulov-14353b2b4/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin">
+    </a>
 </p>
