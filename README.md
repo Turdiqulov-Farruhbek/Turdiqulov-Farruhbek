@@ -138,6 +138,11 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR_platforma&theme=tokyonight" alt="HR Platform Service">
                 </a>
             </td>
+             <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Staffer&theme=tokyonight" alt="Staffer Service">
+                </a>
+            </td>
         </tr>
     </table>
 </div>
