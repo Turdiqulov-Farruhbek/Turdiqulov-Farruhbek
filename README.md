@@ -1,6 +1,6 @@
 <!-- Custom Header with Golang gopher -->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=2C68F6&background=2E22FF00&center=true&vCenter=true&multiline=false&width=700&height=150&lines=Hello%2C+my+name+is+Farrukhbek%2C+I+am+a+Go+developer"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2C68F6&background=2E22FF00&center=true&vCenter=true&multiline=false&width=900&height=150&lines=Hello%2C+my+name+is+Farrukhbek%2C+I+am+a+Go+developer"
         alt="Typing SVG" />
     <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/gopher-dance-long-3x.gif" width="100"
         height="100" alt="Dancing Gopher">
@@ -61,11 +61,11 @@
     </div>
     <!-- Coffee Gopher and Thank You Message -->
     <div xmlns="http://www.w3.org/1999/xhtml" style="margin">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=3000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=I+know+Go.+☕;I+know+Docker.+☕;I+know+RabbitMQ.+☕;I+know+Microservices.+☕;I+know+MongoDB.+☕;I+know+Redis.+☕;I+know+PostgreSQL.+☕;I+know+Python.+☕;I+know+Telegram+Bot.+☕;I+know+HTML5.+☕;I+know+CSS3.+☕;I+know+JavaScript.+☕"
-            style="border-radius: 100px" alt="Typing SVG" />
-    </div>
+<!--         <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=3000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=I+know+Go.+☕;I+know+Docker.+☕;I+know+RabbitMQ.+☕;I+know+Microservices.+☕;I+know+MongoDB.+☕;I+know+Redis.+☕;I+know+PostgreSQL.+☕;I+know+Python.+☕;I+know+Telegram+Bot.+☕;I+know+HTML5.+☕;I+know+CSS3.+☕;I+know+JavaScript.+☕"
+            style="border-radius: 100px" alt="Typing SVG" /> -->
+<!--     </div>
     <img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100">
-</div>
+</div> -->
 
 <!-- Most used languages -->
 <div style="margin-top: 20px; text-align: center;">
