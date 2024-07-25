@@ -111,31 +111,31 @@
         <tr>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Library-Management-System">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library-Management-System&theme=tokyonight" alt="Library Management System">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library-Management-System&theme=tokyonight" alt="Library_Managment_system">
                 </a>
             </td>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Smart-City-Management">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart-City-Management&theme=tokyonight" alt="Smart City Management">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart-City-Management&theme=tokyonight" alt="Smart_City_Management">
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Restaurant-Reservation-Service">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant-Reservation-Service&theme=tokyonight" alt="Restaurant Reservation Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant-Reservation-Service&theme=tokyonight" alt="Restaurant_Reservation_Service">
                 </a>
             </td>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Food-Delivery">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Food-Delivery&theme=tokyonight" alt="Food Delivery">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Food-Delivery&theme=tokyonight" alt="Food_Delivery">
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR-Platform-Service&theme=tokyonight" alt="HR Platform Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR-Platform-Service&theme=tokyonight" alt="HR_Platform Service">
                 </a>
             </td>
             <td>
