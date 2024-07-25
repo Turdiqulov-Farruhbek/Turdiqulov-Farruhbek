@@ -7,11 +7,11 @@
 </div>
 
 <!-- Creative About Me Section -->
-<h2 align="center">👨‍💻 Junior Golang Developer | 🚀 AI Enthusiast | 🌐 Problem Solver</h2>
+<h2 align="center">👨‍💻 Backend Golang Developer | 🚀 AI Enthusiast | 🌐 Problem Solver</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center" style="width:80%">
-        At 18 years old, I'm a passionate Golang developer from Andijan, Uzbekistan, currently studying at Najot Ta'lim in Tashkent. With a focus on backend development, microservices, and Docker, I've been sharpening my skills through real projects and practical experience. My interests extend to artificial intelligence and Python, particularly in writing Telegram bots. I thrive on solving challenging problems and enjoy the process of debugging and refining code.
+        At 31 years old, I'm a passionate Golang developer from Qashqadaryo, Uzbekistan, currently studying at Najot Ta'lim. With a focus on backend development, microservices, and Docker, I've been sharpening my skills through real projects and practical experience. My interests extend to artificial intelligence and Python, particularly in writing Telegram bots. I thrive on solving challenging problems and enjoy the process of debugging and refining code.
     </p>
     <div style="width: 10%">
         <p align="center">
@@ -43,8 +43,9 @@
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
             </a>
-            <a href="https://www.aiogram.dev/"></a>
-            <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+            <a href="https://www.aiogram.dev/">
+                <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+            </a>
         </p>
         <p align="center">
             <a href="https://www.html.com/">
@@ -69,19 +70,19 @@
 <!-- Most used languages -->
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turdiqulov-Farruhbek&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
     </a>
 </div>
 
 <!-- GitHub Stats with custom styling -->
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Azizbek's GitHub Stats" width=51%>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=tokyonight&border=2C68F6" alt="Azizbek's GitHub Streak" width=47%>
+    <img src="https://github-readme-stats.vercel.app/api?username=Turdiqulov-Farruhbek&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Farruhbek's GitHub Stats" width=51%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turdiqulov-Farruhbek&theme=tokyonight&border=2C68F6" alt="Farruhbek's GitHub Streak" width=47%>
 </div>
 
 <!-- Coding Activity Graph -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizbek-Qodirov&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Turdiqulov-Farruhbek&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -89,11 +90,9 @@
 <!-- My Journey -->
 <h3 align="center">🛸 My Journey</h3>
 <p align="center">
-    🎓 Currently pursuing my degree in Computer Science at Najot Ta'lim, Tashkent<br>
+    🎓 Currently studying at Najot Ta'lim in Tashkent<br>
     💼 Freelance developer specializing in Golang and backend solutions<br>
     🌱 Learning cloud technologies and DevOps practices<br>
-    🏆 Winner of several local coding competitions<br>
-    📚 Achieved IELTS 6.5 in 2024<br>
     📚 Practicing Golang, microservices, Docker, and working on real projects.</a>
 </p>
 
@@ -107,40 +106,54 @@
 
 <!-- Projects Section -->
 <h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-    <a href="https://github.com/Azizbek-Qodirov/url-tester/tree/main">🔍 URL Tester</a> - A tool for testing and analyzing URLs with detailed results and logs.
-</p>
-
 <div align="center">
-    <details>
-        <summary>⚡ Fun Fact</summary>
-        <p>I have a girlfriend, and together we debug life's challenges! 💖👩‍💻👨‍💻</p>
-    </details>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Library-Management-System">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library-Management-System&theme=tokyonight" alt="Library Management System">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Smart-City-Management">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart-City-Management&theme=tokyonight" alt="Smart City Management">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Restaurant-Reservation-Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant-Reservation-Service&theme=tokyonight" alt="Restaurant Reservation Service">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Food-Delivery">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Food-Delivery&theme=tokyonight" alt="Food Delivery">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR-Platform-Service&theme=tokyonight" alt="HR Platform Service">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Telegram-Bot">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Telegram-Bot&theme=tokyonight" alt="Telegram Bot">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
-<!-- Connect With Me section -->
-<h3 align="center">🌐 Join My Digital Universe</h3>
+<!-- Connect with me -->
+<h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-    <a href="https://discord.com/users/azizbek_qodirov">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <a href="mailto:farruhbekturdiqulov@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/azizbek-qodirov">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://t.me/Azizbek_Qodirov">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://leetcode.com/u/Azizbek_Qodirov/">
-        <img src="https://img.shields.io/badge/LeetCode-FE9C23?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-    <a href="mailto:azizbek.qodirov@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://leetcode.com/u/Farruhbek/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
     </a>
 </p>
-
-
-<!-- Closing Section -->
-<div align="center">
-    <p>Thanks for visiting my profile! If you have any questions or want to collaborate, feel free to reach out. Let's build something amazing together! 🚀</p>
-    <img src="https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=2C68F6" alt="Profile views" />
-</div>
