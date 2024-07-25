@@ -1,6 +1,6 @@
 <!-- Custom Header with Golang gopher -->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=2C68F6&background=2E22FF00&center=true&vCenter=true&multiline=false&width=700&height=150&lines=Hello%2C+World!+%F0%9F%8C%8D;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;For+the+best+experience.+%F0%9F%91%8D;Use+theme+in+dark+mode.+%F0%9F%8C%9F;Explore+my+projects+%F0%9F%92%BB;Feel+free+to+fork+and+star+%F0%9F%92%9C"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=2C68F6&background=2E22FF00&center=true&vCenter=true&multiline=false&width=700&height=150&lines=Hello%2C+my+name+is+Farrukhbek%2C+I+am+a+Go+developer"
         alt="Typing SVG" />
     <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/gopher-dance-long-3x.gif" width="100"
         height="100" alt="Dancing Gopher">
