@@ -115,14 +115,14 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/Smart-City-Management">
+                <a href="https://github.com/Turdiqulov-Farruhbek/Smart_City">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Smart_city&theme=tokyonight" alt="Smart City Management">
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/Restaurant-Reservation-Service">
+                <a href="https://github.com/Turdiqulov-Farruhbek/Restaurant-reservation-system">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Restaurant-reservation-system&theme=tokyonight" alt="Restaurant Reservation Service">
                 </a>
             </td>
@@ -134,12 +134,12 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
+                <a href="https://github.com/Turdiqulov-Farruhbek/HR_platforma">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=HR_platforma&theme=tokyonight" alt="HR Platform Service">
                 </a>
             </td>
              <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/HR-Platform-Service">
+                <a href="https://github.com/Turdiqulov-Farruhbek/Staffer">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Staffer&theme=tokyonight" alt="Staffer Service">
                 </a>
             </td>
