@@ -110,6 +110,13 @@
     <table>
         <tr>
             <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/Personal-Finance-Tracker">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Personal-Finance-Tracker&theme=tokyonight" alt="Personal Finance Tracker">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/Turdiqulov-Farruhbek/Library_Managment_system">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library_Managment_system&theme=tokyonight" alt="Library Managment system">
                 </a>
