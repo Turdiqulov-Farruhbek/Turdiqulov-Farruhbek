@@ -110,8 +110,8 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/Library_Management_System">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library_Management_System&theme=tokyonight" alt="Library Managment system">
+                <a href="https://github.com/Turdiqulov-Farruhbek/Library_Management_system">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Library_Management_system&theme=tokyonight" alt="Library Managment system">
                 </a>
             </td>
             <td>
