@@ -114,6 +114,11 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Personal-Finance-Tracker&theme=tokyonight" alt="Personal Finance Tracker">
                 </a>
             </td>
+            <td>
+                <a href="https://github.com/Turdiqulov-Farruhbek/web-poll">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=web-poll&theme=tokyonight" alt= Web poll">
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
