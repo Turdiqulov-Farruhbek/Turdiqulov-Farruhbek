@@ -43,9 +43,6 @@
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
             </a>
-            <a href="https://www.aiogram.dev/">
-                <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
-            </a>
         </p>
         <p align="center">
             <a href="https://www.html.com/">
@@ -53,9 +50,6 @@
             </a>
             <a href="https://www.w3.org/Style/CSS/">
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-            </a>
-            <a href="https://www.javascript.com/">
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
             </a>
         </p>
     </div>
