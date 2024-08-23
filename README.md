@@ -81,6 +81,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turdiqulov-Farruhbek&theme=tokyonight&border=2C68F6" alt="Farruhbek's GitHub Streak" width=47%>
 </div>
 
+
 <!-- Coding Activity Graph -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Turdiqulov-Farruhbek&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
