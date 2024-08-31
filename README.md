@@ -55,6 +55,7 @@
     </div>
     <!-- Coffee Gopher and Thank You Message -->
     <div xmlns="http://www.w3.org/1999/xhtml" style="margin">
+        
 <!--         <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=3000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=I+know+Go.+☕;I+know+Docker.+☕;I+know+RabbitMQ.+☕;I+know+Microservices.+☕;I+know+MongoDB.+☕;I+know+Redis.+☕;I+know+PostgreSQL.+☕;I+know+Python.+☕;I+know+Telegram+Bot.+☕;I+know+HTML5.+☕;I+know+CSS3.+☕;I+know+JavaScript.+☕"
             style="border-radius: 100px" alt="Typing SVG" /> -->
 <!--     </div>
