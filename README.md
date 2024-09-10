@@ -93,7 +93,6 @@
     🌱 Learning cloud technologies and DevOps practices<br>
     📚 Practicing Golang, microservices, Docker, and working on real projects.</a>
 </p>
-
 <!-- Current Focus -->
 <h3 align="center">🔭 Current Mission</h3>
 <p align="center">
