@@ -107,8 +107,8 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/Turdiqulov-Farruhbek/Personal-Finance-Tracker">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=Personal-Finance-Tracker&theme=tokyonight" alt="Personal Finance Tracker">
+                <a href="https://github.com/Turdiqulov-Farruhbek/The-muallimah">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turdiqulov-Farruhbek&repo=The-muallimah&theme=tokyonight" alt="The Muallimah">
                 </a>
             </td>
             <td>
