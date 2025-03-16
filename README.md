@@ -11,7 +11,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center" style="width:80%">
-        At 31 years old, I'm a passionate Golang developer from Qashqadaryo, Uzbekistan, currently studying at Najot Ta'lim. With a focus on backend development, microservices, and Docker, I've been sharpening my skills through real projects and practical experience. My interests extend to artificial intelligence and Python, particularly in writing Telegram bots. I thrive on solving challenging problems and enjoy the process of debugging and refining code.
+        At 32 years old, I'm a passionate Golang developer from Qashqadaryo, Uzbekistan, currently studying at Najot Ta'lim. With a focus on backend development, microservices, and Docker, I've been sharpening my skills through real projects and practical experience. My interests extend to artificial intelligence and Python, particularly in writing Telegram bots. I thrive on solving challenging problems and enjoy the process of debugging and refining code.
     </p>
     <div style="width: 10%">
         <p align="center">
